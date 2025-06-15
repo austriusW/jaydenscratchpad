@@ -4,7 +4,7 @@
 All HTML, CSS, and JavaScript used to structure this website is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ### Original Media
-Some images and screenshots (like personal photos, original screenshots, and edited media) are **© Zizou Khaznadar**.  
+Some images and screenshots (like personal photos, original screenshots, and edited media) are **© austriusW**.  
 These are **not licensed** under GPL and may not be reused without permission.
 
 ### Third-Party Content
